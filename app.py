@@ -53,7 +53,7 @@ st.markdown("""
 
     .metric-row { display: flex; gap: 8px; margin-bottom: 14px; }
     .metric-box { flex: 1; background: white; border-radius: 10px; padding: 12px; border: 0.5px solid rgba(0,0,0,0.08); text-align: center; }
-    .metric-val { font-size: 22px; font-weight: 600; line-height: 1.1; }
+    .metric-val { font-size: 22px; font-weight: 600; line-height: 1.1; color: #1a1a18; }
     .metric-lbl { font-size: 9px; color: #9a9a92; margin-top: 3px; text-transform: uppercase; letter-spacing: .04em; }
 
     .email-box { background: #f5f4f0; border-radius: 10px; padding: 16px 18px; font-size: 13px; line-height: 1.75; color: #1a1a18; border: 0.5px solid rgba(0,0,0,0.1); white-space: pre-wrap; font-family: 'DM Sans', sans-serif; }
